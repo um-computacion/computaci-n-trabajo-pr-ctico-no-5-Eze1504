@@ -1,9 +1,9 @@
 # Trabajo Práctico 5: Programación Orientada a Objetos con TDD
 
 ## Información del Estudiante
-- **Nombre**: [Escribir nombre]
-- **Apellido**: [Escribir apellido]
-- **Legajo**: [Escribir legajo]
+- **Nombre**: Ezequiel
+- **Apellido**: Sarabia
+- **Legajo**: 64246
 
 ## Objetivos
 - Implementar una jerarquía de clases utilizando herencia
